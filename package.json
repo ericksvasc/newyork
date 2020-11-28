@@ -1,0 +1,19 @@
+{
+  "name": "portifolio-learn-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "next dev",
+    "build": "next build",
+    "dev": "next start"
+  },
+  "dependencies": {
+    "framer-motion": "^2.9.4",
+    "next": "10.0.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-icons": "^3.11.0",
+    "react-slideshow-image": "^3.4.1",
+    "styled-components": "^5.2.1"
+  }
+}
