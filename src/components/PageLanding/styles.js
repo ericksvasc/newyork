@@ -98,9 +98,8 @@ export const Container = styled.div`
     width: 100%;
     height: 100%;
     grid-area: photo1;
-    /* background-image: url('/img/content1.jpg'); */
+    background-image: url('/img/content1.jpg');
     background-position: center;
-    background-color: white;
     background-size: cover;
     margin-bottom: 20px;
   }
@@ -108,27 +107,24 @@ export const Container = styled.div`
     width: 100%;
     height: 100%;
     grid-area: photo2;
-    /* background-image: url('/img/content2.jpg'); */
+    background-image: url('/img/content2.jpg');
     background-position: center;
-    background-color: white;
     background-size: cover;
   }
   .main_content3{
     width: 100%;
     height: 100%;
     grid-area: photo3;
-    /* background-image: url('/img/content3.jpg'); */
+    background-image: url('/img/content3.jpg');
     background-position: center;
-    background-color: white;
     background-size: cover;
   }
   .main_content4{
     width: 100%;
     height: 100%;
     grid-area: photo4;
-    /* background-image: url('/img/content4.jpg'); */
+    background-image: url('/img/content4.jpg');
     background-position: center;
-    background-color: white;
     background-size: cover;
   }
   .main_content_text{
