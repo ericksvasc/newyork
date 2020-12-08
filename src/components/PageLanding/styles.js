@@ -100,6 +100,7 @@ export const Container = styled.div`
     grid-area: photo1;
     /* background-image: url('/img/content1.jpg'); */
     background-position: center;
+    background-color: white;
     background-size: cover;
     margin-bottom: 20px;
   }
@@ -109,6 +110,7 @@ export const Container = styled.div`
     grid-area: photo2;
     /* background-image: url('/img/content2.jpg'); */
     background-position: center;
+    background-color: white;
     background-size: cover;
   }
   .main_content3{
@@ -117,6 +119,7 @@ export const Container = styled.div`
     grid-area: photo3;
     /* background-image: url('/img/content3.jpg'); */
     background-position: center;
+    background-color: white;
     background-size: cover;
   }
   .main_content4{
