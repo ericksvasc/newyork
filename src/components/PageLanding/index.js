@@ -24,7 +24,7 @@ function PageLanding() {
                     <div className="main">
                         <div className="main_introduction">
                             <div className="main_introduction_title">
-                                <h1>New York City's</h1>
+                                <h1>New York City</h1>
                                 
                             </div>
                             <div className="main_introduction_arrow">
