@@ -8,7 +8,7 @@ export const Container = styled.div`
   .main{
     width: 100%;
     height: 100vh;
-    background-image: url('/img/bg.jpg');
+    /* background-image: url('/img/bg.jpg'); */
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -98,7 +98,7 @@ export const Container = styled.div`
     width: 100%;
     height: 100%;
     grid-area: photo1;
-    background-image: url('/img/content1.jpg');
+    /* background-image: url('/img/content1.jpg'); */
     background-position: center;
     background-size: cover;
     margin-bottom: 20px;
@@ -107,7 +107,7 @@ export const Container = styled.div`
     width: 100%;
     height: 100%;
     grid-area: photo2;
-    background-image: url('/img/content2.jpg');
+    /* background-image: url('/img/content2.jpg'); */
     background-position: center;
     background-size: cover;
   }
@@ -115,7 +115,7 @@ export const Container = styled.div`
     width: 100%;
     height: 100%;
     grid-area: photo3;
-    background-image: url('/img/content3.jpg');
+    /* background-image: url('/img/content3.jpg'); */
     background-position: center;
     background-size: cover;
   }
@@ -123,7 +123,7 @@ export const Container = styled.div`
     width: 100%;
     height: 100%;
     grid-area: photo4;
-    background-image: url('/img/content4.jpg');
+    /* background-image: url('/img/content4.jpg'); */
     background-position: center;
     background-size: cover;
   }
