@@ -128,6 +128,7 @@ export const Container = styled.div`
     grid-area: photo4;
     /* background-image: url('/img/content4.jpg'); */
     background-position: center;
+    background-color: white;
     background-size: cover;
   }
   .main_content_text{
