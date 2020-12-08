@@ -8,7 +8,7 @@ export const Container = styled.div`
   .main{
     width: 100%;
     height: 100vh;
-    /* background-image: url('/img/bg.jpg'); */
+    background-image: url('/img/bg.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
